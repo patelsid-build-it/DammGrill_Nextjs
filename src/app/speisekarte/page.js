@@ -29,7 +29,7 @@ const Speisekarte = () => {
         { id: 'nudelauflauf', name: 'Nudelauflauf', icon: '🍲' },
         { id: 'salate', name: 'Salate', icon: '🥗' },
         { id: 'imbiss', name: 'Imbiss Gerichte', icon: '🌭' },
-        { id: 'pizzabraten', name: 'Pizzabräten', icon: '🥟' },
+        { id: 'pizzabraten', name: 'Pizzabrötchen', icon: '🥟' },
         { id: 'getranke', name: 'Getränke', icon: '🥤' },
         { id: 'saucen', name: 'Saucen', icon: '🥫' }
     ];
@@ -116,8 +116,8 @@ const Speisekarte = () => {
                                 key={category.id}
                                 onClick={() => setActiveCategory(category.id)}
                                 className={`px-6 py-3 rounded-full font-medium transition-all duration-200 whitespace-nowrap shadow-md hover:shadow-lg ${activeCategory === category.id
-                                        ? 'bg-blue-600 text-white scale-105'
-                                        : 'bg-white text-gray-700 hover:bg-gray-50'
+                                    ? 'bg-blue-600 text-white scale-105'
+                                    : 'bg-white text-gray-700 hover:bg-gray-50'
                                     }`}
                             >
                                 <span className="mr-2">{category.icon}</span>
