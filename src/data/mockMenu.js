@@ -33,7 +33,7 @@ export const menuData = {
     { id: 146, name: "Kartoffelkroketten", description: "(10 Stück)", price: 4.00 },
     { id: 147, name: "Mehlkroketten", description: "(Stück) (Rindfleisch 5%)", price: 3.00 },
     { id: 148, name: "Schaschlik", description: "", price: 7.00 },
-    { id: 149, name: "Putenstäbchen", description: "mit Brat Zwiebeln", price: 4.50 },
+    { id: 149, name: "Pußtabällchen", description: "mit Brat Zwiebeln", price: 4.50 },
     { id: 150, name: "Halbes Hähnchen", description: "", price: 6.00 },
     { id: 151, name: "Frikadelle", description: "", price: 3.00 },
     { id: 152, name: "Curryfrikadelle", description: "", price: 4.00 },
