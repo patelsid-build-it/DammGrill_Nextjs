@@ -18,6 +18,9 @@ const Footer = () => {
             <p className="text-gray-400 mb-6 leading-relaxed">
               Authentische griechische Küche und deutsche Spezialitäten im Herzen von Duisburg-Meiderich.
             </p>
+            <p className="text-blue-400 font-bold italic mb-6">
+              "Einmal Damm Immer Damm"
+            </p>
             <div className="flex space-x-4">
               <a href="#" className="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-blue-600 transition-colors">
                 <Facebook size={20} />

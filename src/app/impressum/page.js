@@ -49,7 +49,8 @@ const Impressum = () => {
                             Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
                         </p>
                         <p className="text-gray-700 mt-2">
-                            [Wird in Kürze ergänzt]
+                            <strong>Umsatzsteuer-Identifikationsnummer:</strong><br />
+                            DE452166925
                         </p>
                     </section>
 
