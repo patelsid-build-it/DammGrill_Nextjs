@@ -155,7 +155,7 @@ const Erinnerungen = () => {
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <a
-                                href="tel:020344300404"
+                                href="tel:0203443004"
                                 className="inline-block bg-white text-blue-700 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl hover:scale-105"
                             >
                                 Jetzt reservieren

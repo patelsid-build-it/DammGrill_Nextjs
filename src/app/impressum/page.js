@@ -36,7 +36,7 @@ const Impressum = () => {
                         <div className="space-y-2 text-gray-700">
                             <p>
                                 <span className="font-semibold">Telefon:</span>{' '}
-                                <a href="tel:020344300404" className="text-blue-600 hover:text-blue-700">
+                                <a href="tel:0203443004" className="text-blue-600 hover:text-blue-700">
                                     0203 / 44 30 04
                                 </a>
                             </p>

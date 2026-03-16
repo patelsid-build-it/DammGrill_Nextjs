@@ -131,7 +131,7 @@ export const menuData = {
   ],
   gyros: [
     { id: 91, name: "Gyros Diavolo", description: "mit Paprika, Zwiebeln, Tomaten, Peperoni, Käse, überbacken, Pommes und Salat", price: 15.00 },
-    { id: 92, name: "Taxi Teller", description: "mit Currywurst, Bratwurst, Käse, Zaziki", price: 10.00 },
+    { id: 92, name: "Taxi Teller", description: "Currywurst mit Gyros, Zwiebeln und Zaziki", price: 10.00 },
     { id: 93, name: "Gyros Damm", description: "mit Hollandaisesauce überbacken, Pommes und Salat", price: 15.00 },
     { id: 94, name: "Gyros Roma", description: "mit Sahne, Pilze, Käse überbacken", price: 15.00 },
     { id: 95, name: "Gyros", description: "mit Pommes Zaziki, Zwiebeln", price: 12.00 },

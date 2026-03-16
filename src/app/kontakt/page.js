@@ -59,7 +59,7 @@ const Kontakt = () => {
                                     <div>
                                         <h3 className="text-lg font-bold text-gray-900 mb-1">Telefon</h3>
                                         <a
-                                            href="tel:020344300404"
+                                            href="tel:0203443004"
                                             className="text-blue-600 hover:text-blue-700 text-xl font-semibold block"
                                         >
                                             0203 / 44 30 04
@@ -99,7 +99,7 @@ const Kontakt = () => {
                                 Rufen Sie uns an und holen Sie Ihre Bestellung ab oder lassen Sie sich beliefern.
                             </p>
                             <a
-                                href="tel:020344300404"
+                                href="tel:0203443004"
                                 className="inline-block bg-white text-blue-700 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl hover:scale-105"
                             >
                                 0203 / 44 30 04

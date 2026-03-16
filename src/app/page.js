@@ -38,7 +38,7 @@ export default function Home() {
               Speisekarte ansehen
             </Link>
             <a
-              href="tel:020344300404"
+              href="tel:0203443004"
               className="bg-white text-blue-700 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-50 transition-all duration-200 shadow-xl hover:shadow-2xl hover:scale-105"
             >
               Jetzt anrufen
@@ -61,7 +61,7 @@ export default function Home() {
             <div className="flex flex-col items-center space-y-2">
               <Phone size={32} className="mb-2" />
               <p className="font-bold text-lg">Bestellservice</p>
-              <a href="tel:020344300404" className="text-blue-100 hover:text-white transition-colors text-xl">
+              <a href="tel:0203443004" className="text-blue-100 hover:text-white transition-colors text-xl">
                 0203 / 44 30 04
               </a>
             </div>
@@ -234,7 +234,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Telefon</h3>
-                      <a href="tel:020344300404" className="text-blue-600 hover:text-blue-700 text-lg font-semibold">
+                      <a href="tel:0203443004" className="text-blue-600 hover:text-blue-700 text-lg font-semibold">
                         0203 / 44 30 04
                       </a>
                     </div>
