@@ -71,7 +71,7 @@ export const menuData = {
     { id: 24, name: "O sole Mio", description: "Forellschinkenvorderschinken, Pilze, Spargel, Ei", price: 10.00 },
     { id: 25, name: "Gamberetti", description: "mit Krabben", price: 12.00 },
     { id: 26, name: "Roma", description: "Thunfisch Ananas, Zwiebeln, Peperoni", price: 11.00 },
-    { id: 27, name: "Mozarella", description: "Tomaten, Knoblauch, Mozzarella, Basilikum", price: 10.00 },
+    { id: 27, name: "Mozarella", description: "Krabben, tomaten,Mozzarella, Basilikum", price: 10.00 },
     { id: 28, name: "Spaghetti", description: "Fleischsauce oder Rigatoni", price: 10.00 },
     { id: 29, name: "Sprina", description: "Forellschinkenvorderschinken, Ananas, Mais, Peperoni", price: 10.00 },
     { id: 30, name: "Elena", description: "Gyros, Metaxasauce", price: 12.00 },
