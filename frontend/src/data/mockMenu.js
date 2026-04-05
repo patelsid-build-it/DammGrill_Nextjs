@@ -139,7 +139,7 @@ export const menuData = {
     { id: 97, name: "Gyros-Pita", description: "Pita gefüllt mit Fladenbrot Zaziki, Zwiebeln, Kraut", price: 7.00 },
     { id: 98, name: "Gyros-Teller", description: "mit Pommes oder Reis, Salat, Zaziki, Zwiebeln", price: 13.00 },
     { id: 99, name: "Gyros-Platte", description: "mit Gyros, 1 Spargel, 1 Steak, 1 Leber, Pommes oder Reis, Salat, Zaziki, Zwiebeln", price: 16.00 },
-    { id: 100, name: "Gyros-Spezial", description: "Gyros, überbacken mit Metaxasauce, Pilze, Tomaten, Gyros, Käse, Pommes oder Reis, Salat", price: 14.50 },
+    { id: 100, name: "Gyros-Spezial", description: "Gyros, überbacken mit Metaxasauce, Gyros, Käse, Pommes oder Reis, Salat", price: 14.50 },
     { id: 101, name: "Damm-Platte", description: "mit Gyros, 1 Steak, 1 Cevapcici, 2 Steak, Pommes oder Reis, Salat, Zaziki, Zwiebeln", price: 16.00 },
     { id: 102, name: "Bifteki-Teller", description: "gefüllte Hackfleischrolle mit Käse überbacken, Gyros, Salat, Zwiebeln", price: 13.00 },
     { id: 103, name: "Leber-Teller", description: "mit Brat Zwiebeln, €2u; Pommes oder Reis, Salat", price: 13.00 },
