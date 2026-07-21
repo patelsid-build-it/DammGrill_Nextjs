@@ -215,6 +215,8 @@ const Speisekarte = () => {
                         <a
                             href="tel:0203443004"
                             className="inline-block bg-white text-blue-700 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl hover:scale-105"
+                            data-mcp-action="call-restaurant"
+                            data-mcp-description="Rufe den Damm Grill für Bestellungen oder Tischreservierungen direkt an."
                         >
                             Jetzt bestellen: 0203 / 44 30 04
                         </a>

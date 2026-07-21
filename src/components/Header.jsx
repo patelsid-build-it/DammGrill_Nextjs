@@ -55,6 +55,8 @@ const Header = () => {
             <a
               href="tel:0203443004"
               className="flex items-center space-x-2 bg-blue-600 text-white px-6 py-2.5 rounded-full font-medium hover:bg-blue-700 transition-all duration-200 shadow-md hover:shadow-lg ml-4"
+              data-mcp-action="call-restaurant"
+              data-mcp-description="Rufe den Damm Grill für Bestellungen oder Tischreservierungen direkt an."
             >
               <Phone size={18} />
               <span>0203 / 44 30 04</span>
@@ -92,6 +94,8 @@ const Header = () => {
             <a
               href="tel:0203443004"
               className="flex items-center justify-center space-x-2 bg-blue-600 text-white px-6 py-3 rounded-full font-medium hover:bg-blue-700 transition-all"
+              data-mcp-action="call-restaurant"
+              data-mcp-description="Rufe den Damm Grill für Bestellungen oder Tischreservierungen direkt an."
             >
               <Phone size={18} />
               <span>0203 / 44 30 04</span>

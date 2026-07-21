@@ -40,6 +40,8 @@ export default function Home() {
             <a
               href="tel:0203443004"
               className="bg-white text-blue-700 px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-50 transition-all duration-200 shadow-xl hover:shadow-2xl hover:scale-105"
+              data-mcp-action="call-restaurant"
+              data-mcp-description="Rufe den Damm Grill für Bestellungen oder Tischreservierungen direkt an."
             >
               Jetzt anrufen
             </a>
@@ -61,7 +63,12 @@ export default function Home() {
             <div className="flex flex-col items-center space-y-2">
               <Phone size={32} className="mb-2" />
               <p className="font-bold text-lg">Bestellservice</p>
-              <a href="tel:0203443004" className="text-blue-100 hover:text-white transition-colors text-xl">
+              <a
+                href="tel:0203443004"
+                className="text-blue-100 hover:text-white transition-colors text-xl"
+                data-mcp-action="call-restaurant"
+                data-mcp-description="Rufe den Damm Grill für Bestellungen oder Tischreservierungen direkt an."
+              >
                 0203 / 44 30 04
               </a>
             </div>
@@ -234,7 +241,12 @@ export default function Home() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Telefon</h3>
-                      <a href="tel:0203443004" className="text-blue-600 hover:text-blue-700 text-lg font-semibold">
+                      <a
+                        href="tel:0203443004"
+                        className="text-blue-600 hover:text-blue-700 text-lg font-semibold"
+                        data-mcp-action="call-restaurant"
+                        data-mcp-description="Rufe den Damm Grill für Bestellungen oder Tischreservierungen direkt an."
+                      >
                         0203 / 44 30 04
                       </a>
                     </div>
@@ -254,6 +266,8 @@ export default function Home() {
                   <Link
                     href="/kontakt"
                     className="inline-block bg-blue-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl text-center"
+                    data-mcp-action="get-directions"
+                    data-mcp-description="Zeige die Anfahrt zum Restaurant Auf dem Damm 52 in Duisburg-Meiderich."
                   >
                     Route planen
                   </Link>

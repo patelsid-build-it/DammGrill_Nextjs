@@ -1,0 +1,21 @@
+# Damm Grill
+
+> Authentisches griechisches Restaurant und Schnellrestaurant im Herzen von Duisburg-Meiderich. Griechische und deutsche Spezialitäten.
+
+## Restaurant Details
+- **Adresse:** Auf dem Damm 52, 47137 Duisburg, Deutschland
+- **Telefon:** 0203 / 44 30 04 (Direkte Tischreservierung und Bestellungen)
+- **Email:** info@dammgrill.de
+- **Website:** https://www.dammgrill.de
+- **Öffnungszeiten:** Täglich von 12:00 bis 22:00 Uhr (Keine Ruhetage, auch an Feiertagen geöffnet).
+
+## Ausstattung
+- 50 Sitzplätze im Innenbereich
+- 50 Sitzplätze auf der Außenterrasse
+- Alle MSV Duisburg Spiele live übertragen
+
+## Hauptgerichte & Spezialitäten
+- **Griechische Klassiker:** Gyros (mit Zaziki, Pommes und Salat), Gyros-Spezialitäten (z. B. Taxi-Teller), Grillplatten, Spieße.
+- **Schnitzel:** Über 15 verschiedene Schnitzel-Variationen (z. B. Wiener Art, Schlemmer-Schnitzel).
+- **Pizza & Pasta:** Knusprige Steinofen-Pizza und verschiedene Nudelgerichte.
+- **Schnellimbiss-Klassiker:** Currywurst, Bratwurst, Pommes Frites, frische Salate.
